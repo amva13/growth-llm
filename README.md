@@ -1,11 +1,3 @@
-```
-@inproceedings{velezextending,
-  title={Extending a Clinical Pediatric Growth Chart App Using a Large Language Model},
-  author={Velez-Arce, Alejandro and Anaya, Jesus Caraballo},
-  booktitle={AI for Children: Healthcare, Psychology, Education}
-}
-```
-
 --------------------------------------------------------------------------------
 The code for the growth chart app is forked from [SMART on FHIR](https://github.com/smart-on-fhir/growth-chart-app/tree/master/js) and extends it with an LLM.
 ## Abstract
